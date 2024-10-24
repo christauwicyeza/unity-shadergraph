@@ -2470,10 +2470,10 @@
     "m_Guid": {
         "m_GuidSerialized": "11b57a62-98a1-459c-b91e-634704f6cf0b"
     },
-    "m_Name": "wavescale",
+    "m_Name": "WaveLength",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "wavescale",
-    "m_DefaultReferenceName": "_wavescale",
+    "m_RefNameGeneratedByDisplayName": "WaveLength",
+    "m_DefaultReferenceName": "_WaveLength",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -4467,7 +4467,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "c4dae704c73f4cd8975227ea85c66e3f",
     "m_Id": 0,
-    "m_DisplayName": "wavescale",
+    "m_DisplayName": "WaveLength",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
